@@ -1,0 +1,8 @@
+Pygments
+customtkinter
+CTkToolTip
+chlorophyll
+CTkColorPicker
+CTkMessagebox
+pathlib
+Pillow
