@@ -49,3 +49,15 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE.md f
 ## Acknowledgments
 
 - A special shoutout to the modding community for their relentless passion and creativity.
+
+## Additional screenshots
+
+![color_picker_image.png](/ReadmeImages/color_picker_image.png)
+
+![functions_library_image.png](/ReadmeImages/functions_library_image.png)
+
+![advanced_search_image.png](/ReadmeImages/advanced_search_image.png)
+
+![GSC-Dump-Search.png](/ReadmeImages/GSC-Dump-Search.png)
+
+![menu_maker_image.png](/ReadmeImages/menu_maker_image.png)
