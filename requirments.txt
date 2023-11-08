@@ -1,8 +1,8 @@
-Pygments
-customtkinter
-CTkToolTip
-chlorophyll
-CTkColorPicker
-CTkMessagebox
-pathlib
-Pillow
+Pygments==2.16.1
+customtkinter==5.2.1
+CTkToolTip==0.8
+chlorophyll==0.4.1
+CTkColorPicker==0.8.0
+CTkMessagebox==2.5
+pathlib==1.0.1
+Pillow==9.4.0
