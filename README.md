@@ -1,11 +1,22 @@
-# GSC-Helper
+<div align="center">
+  <!-- Logo -->
+  <a href="https://github.com/xS2RT/GSC-Helper">
+    <img src="images/logo.png" height="100">
+  </a>
+  
+  <!-- Title -->
+  <h1>GSC-Helper</h1>
+  
+  <!-- Short Description -->
+  <p>A comprehensive toolkit for Black Ops 2 modding. Featuring a GSC Color Picker, Function Library, Advanced Search, and Menu Maker.</p>
+  
+  <!-- Discord Badge -->
+  <a href="https://discord.com/invite/wty7y89sHE">
+    <img src="https://img.shields.io/discord/your_discord_server_id?logo=discord&style=flat-square" alt="Discord">
+  </a>
+</div>
 
-GSC-Helper is a comprehensive toolkit designed to enhance the modding experience for the game Black Ops 2 specially for begginers.
 
-# Join discord 
-
-- **[Discord](https://discord.com/invite/wty7y89sHE)**
-- 
 ## GSC-Helper Overview
 
 ![GSC-Helper Overview](/ReadmeImages/overview_image.png)
