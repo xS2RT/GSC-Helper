@@ -23,7 +23,7 @@ pip install requirments.txt
 
 Run
 ```
-python GSCHelper.gsc
+python GSCHelper.py
 ```
 
 ## GSC-Helper Overview
