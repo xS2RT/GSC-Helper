@@ -16,9 +16,9 @@
   </a>
 </div>
 
-Install requirments
+Install requirements
 ```
-pip install requirments.txt
+pip install requirements.txt
 ```
 
 Run
