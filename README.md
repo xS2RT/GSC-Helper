@@ -1,6 +1,6 @@
 # GSC-Helper
 
-GSC-Helper is a comprehensive toolkit designed to enhance the modding experience for the game Black Ops 2. This application offers a range of functionalities tailored for modders looking to optimize their workflow, create custom content, and streamline their modding processes.
+GSC-Helper is a comprehensive toolkit designed to enhance the modding experience for the game Black Ops 2 specially for begginers.
 
 ![GSC-Helper Overview](/ReadmeImages/overview_image.png)
 
