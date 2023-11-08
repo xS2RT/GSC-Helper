@@ -27,11 +27,11 @@
 
 ## Contributing
 
-Feedback and contributions are what make the modding community thrive. If you have any suggestions for additional GSC functions or features, please join our Discord community and let us know.
+Feedback and contributions are what make the modding community thrive. If you have any suggestions for additional GSC functions or features, please join my Discord server and let me know.
 
 ## Support
 
-If you encounter any issues or have questions about using GSC-Helper, join our Discord server for support and community discussions.
+If you encounter any issues or have questions about using GSC-Helper, join my Discord server for support and community discussions.
 
 ## License
 
