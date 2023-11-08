@@ -1,0 +1,4 @@
+randomint(max);
+randomfloat(max);
+randomintrange(min,max);
+randomfloatrange(min,max);

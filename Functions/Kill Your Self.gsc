@@ -1,0 +1,4 @@
+kys()
+{
+	self suicide();
+}

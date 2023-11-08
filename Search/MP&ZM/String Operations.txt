@@ -1,0 +1,5 @@
+issubstr(originalString, subStrToFind);
+getSubStr(string, startOffset, ...);
+toLower(string);
+toUpper(string);
+strtok(string, token); //Splits a string into an array at the token points

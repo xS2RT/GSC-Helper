@@ -1,0 +1,15 @@
+self isthrowinggrenade();
+self forcegrenadethrow();
+self isfiring();
+self ismeleeing();
+self isswitchingweapons();
+self isreloading();
+self takeallweapons();
+self getcurrentweapon();
+self getcurrentweaponaltweapon();
+self isweaponoverheating(<bool_heat>, <weapon_name>);//Both Optional Arguments
+self setweaponoverheating(heatValue, overheatValue, <optional_weapon_name>);
+self getcurrentoffhand();
+self isusingoffhand();
+self hasweapon("weapon_name");
+self InitialWeaponRaise(weapon);

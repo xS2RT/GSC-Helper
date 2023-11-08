@@ -1,0 +1,5 @@
+auto_gun_turret_mp
+heli_gunner_rockets_mp
+straferun_rockets_mp
+chopper_minigun_mp
+mounted_turret_stand //Must Be Precached

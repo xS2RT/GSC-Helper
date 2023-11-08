@@ -1,0 +1,25 @@
+sin(theta);
+cos(theta);
+tan(theta);
+asin(theta);
+acos(theta);
+atan(theta);
+int(value);// ToInt
+float(value);// ToFloat
+istring(value); //ToString
+min(val1, val2);
+max(val1, val2);
+floor(value);//Round down
+ceil(value); //Round up
+sqrt(value);
+pow(value, exp);
+distance(start, end);
+distance2D(start, end);
+distanceSquared(start, end); //Comparing a^2 to b is much faster than a to sqrt(b)
+distance2DSquared(start, end);
+length(vector);
+lengthSquared(vector);
+closer(start, trueIfCloser, falseIfCloser);
+vectordot(vec1, vec2);
+vectorcross(vec1, vec2);
+vectornormalize(vector);

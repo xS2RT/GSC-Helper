@@ -1,0 +1,11 @@
+isstring(obj);
+isint(obj);
+isfloat(obj);
+isvec(obj);
+isarray(obj);
+isalive(obj);
+isspawner(obj);
+isplayer(obj);
+isai(obj);
+issentient(obj);
+isvehicle(obj);

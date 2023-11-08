@@ -1,0 +1,15 @@
+if(self sprintbuttonpressed()) self iprintln("SPRINT");
+if(self inventorybuttonpressed()) self iprintln("INVENTORY");
+if(self secondaryoffhandbuttonpressed()) self iprintln("[{+smoke}]");
+if(self fragbuttonpressed()) self iprintln("[{+frag}]");
+if(self stancebuttonpressed()) self iprintln("[{+stance}]");
+if(self jumpbuttonpressed()) self iprintln("[{+gostand}]");
+if(self meleebuttonpressed()) self iprintln("[{+melee}]");
+if(self adsbuttonpressed()) self iprintln("[{+speed_throw}]");
+if(self actionslotfourbuttonpressed()) self iprintln("[{+actionslot 4}]");
+if(self actionslotthreebuttonpressed()) self iprintln("[{+actionslot 3}]");
+if(self actionslottwobuttonpressed()) self iprintln("[{+actionslot 2}]");
+if(self actionslotonebuttonpressed()) self iprintln("[{+actionslot 1}]");
+if(self attackbuttonpressed()) self iprintln("[{+attack}]");
+if(self changeseatbuttonpressed()) self iprintln("[{+switchseat}]");
+if(self usebuttonpressed()) self iprintln("[{+usereload}]");
