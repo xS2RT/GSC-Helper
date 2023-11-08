@@ -16,6 +16,15 @@
   </a>
 </div>
 
+Install requirments
+```
+pip install requirments.txt
+```
+
+Run
+```
+python GSCHelper.gsc
+```
 
 ## GSC-Helper Overview
 
